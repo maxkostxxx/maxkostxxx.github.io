@@ -6,7 +6,7 @@
     "sources": {
       "world.js": {
         "source": "lab/c7-scene/world.js",
-        "sha256": "6807bbd076b03b82abed2a2ec5f2e9a867cdac9842386968174bcc278ccf3a62"
+        "sha256": "f738fd9c782e2089bb41587af5d44677a7fd0b8e453fc49c86b0ccc8c80d662c"
       },
       "grass.js": {
         "source": "lab/c7-scene/grass.js",
@@ -154,7 +154,7 @@
       }
     }
   },
-  "bytes": 7053198,
+  "bytes": 7053214,
   "files": {
     "terrain.js": {
       "bytes": 57595,
@@ -162,8 +162,8 @@
       "source": "lab/c7-scene/terrain.js"
     },
     "world.js": {
-      "bytes": 836367,
-      "sha256": "4857cfbdaee70dcce072ae7d15de4c0fc6cb290a6d64062b19c670a89eda7c08",
+      "bytes": 836383,
+      "sha256": "ee60ff83275dba73ec91ab62621b93dd8c69f146d9fc277f41d2e2c88d64d4dc",
       "source": "Bundled lab/c7-scene/world.js dependency graph"
     },
     "startup-inputs.js": {
