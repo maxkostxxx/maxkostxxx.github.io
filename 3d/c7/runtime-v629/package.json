@@ -6,7 +6,7 @@
     "sources": {
       "world.js": {
         "source": "lab/c7-scene/world.js",
-        "sha256": "06696ff7baf64cdb0feeeeba27eeb3c3d8ca0533d4a5f5470d20c3c16b54e65b"
+        "sha256": "a807b9a2611b06c30ec073f78f043a12a6ec2425b15f206871b8146d0a661868"
       },
       "binary-transfer.js": {
         "source": "lab/c7-scene/binary-transfer.js",
@@ -78,7 +78,7 @@
       },
       "sky.js": {
         "source": "lab/c7-scene/sky.js",
-        "sha256": "11a90fb7b3ca512954d6a3c3bf43294ca10906036d5d559950dc7f8c693aab18"
+        "sha256": "0879a48ad1f5f87d9c0d5ad5a421ed8f4b912ec125fd43e04e111f6b4fc41fd8"
       },
       "canvas-platform.js": {
         "source": "lab/c7-scene/canvas-platform.js",
@@ -178,7 +178,7 @@
       }
     }
   },
-  "bytes": 15221101,
+  "bytes": 15221387,
   "files": {
     "terrain-cache/geometry.bin.zst": {
       "bytes": 841092,
@@ -246,8 +246,8 @@
       "source": "lab/c7-scene/terrain.js"
     },
     "world.js": {
-      "bytes": 899998,
-      "sha256": "fe2bdef3befb68eedbd94c42d4ac8d380df71718b2a88eeb4b734cac037185af",
+      "bytes": 900284,
+      "sha256": "20739f0adf4bd1936429670bffab8b2be6515553ce909fbc954af588228c6654",
       "source": "Bundled lab/c7-scene/world.js dependency graph"
     },
     "startup-inputs.js": {
