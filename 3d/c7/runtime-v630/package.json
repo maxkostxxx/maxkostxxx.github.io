@@ -6,7 +6,7 @@
     "sources": {
       "world.js": {
         "source": "lab/c7-scene/world.js",
-        "sha256": "a807b9a2611b06c30ec073f78f043a12a6ec2425b15f206871b8146d0a661868"
+        "sha256": "bab1432674b4096992ffcf1cfd6d81dc27fa8a85d1fc482f1fd6c799a733236c"
       },
       "binary-transfer.js": {
         "source": "lab/c7-scene/binary-transfer.js",
@@ -62,7 +62,7 @@
       },
       "startup-data-key.js": {
         "source": "lab/c7-scene/startup-data-key.js",
-        "sha256": "f5124cd6b00323e4e79e3bf563f70a30e49c610e64dd8939c7e07a6d129108b3"
+        "sha256": "2430c4078c5b7d772f9dcee289be87a9636eb957d4690fd5cf29d1d97b9d5bb6"
       },
       "sky-horizon.js": {
         "source": "lab/c7-scene/sky-horizon.js",
@@ -154,7 +154,7 @@
       },
       "far-grass.js": {
         "source": "lab/c7-scene/far-grass.js",
-        "sha256": "47c26e7beafc0afdde1919eb4e44104dc361ce6e891219a9bbba8d8d3339fe9d"
+        "sha256": "ab5c211693f43ef7628f262916a21877975e9fb85eb33ebf86dd6c40ef77d645"
       },
       "canopy-occlusion.js": {
         "source": "lab/c7-scene/canopy-occlusion.js",
@@ -178,7 +178,7 @@
       }
     }
   },
-  "bytes": 15221387,
+  "bytes": 15221391,
   "files": {
     "terrain-cache/geometry.bin.zst": {
       "bytes": 841092,
@@ -246,8 +246,8 @@
       "source": "lab/c7-scene/terrain.js"
     },
     "world.js": {
-      "bytes": 900284,
-      "sha256": "20739f0adf4bd1936429670bffab8b2be6515553ce909fbc954af588228c6654",
+      "bytes": 900289,
+      "sha256": "cd1203c39b8fbaae09fd39209e8200d735cb57aff1da338a98206176928ac440",
       "source": "Bundled lab/c7-scene/world.js dependency graph"
     },
     "startup-inputs.js": {
@@ -261,8 +261,8 @@
       "source": "lab/c7-scene/worker-entry.js"
     },
     "startup-data/manifest.json": {
-      "bytes": 1568,
-      "sha256": "b41cc76e230eb130bd3ab5231b8f85d2c7ebdaf433a3d4520645cfc267f33038",
+      "bytes": 1567,
+      "sha256": "ca396a89a217b36fe558f6dc31c96cc4d65f7ec16b32d3a98cee4b0819ed131e",
       "source": "lab/c7-scene/startup-data/manifest.json"
     },
     "startup-data/fields.bin.gz": {
