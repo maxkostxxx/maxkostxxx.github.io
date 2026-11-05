@@ -6,7 +6,7 @@
     "sources": {
       "world.js": {
         "source": "lab/c7-scene/world.js",
-        "sha256": "4fcd55cf0d2aedd21d24ffca5c37ccbac165120cf1cba0e4709aa91796f7536e"
+        "sha256": "ccafa2909013c24ebfdae957f96bac0b66a244cf83ee1fef7bdf6de97b18e862"
       },
       "binary-transfer.js": {
         "source": "lab/c7-scene/binary-transfer.js",
@@ -247,7 +247,7 @@
     },
     "world.js": {
       "bytes": 900552,
-      "sha256": "0c77163dec16af4bf56e94aa9e298aad6bdb63faa9a666064feff9611bfb4f83",
+      "sha256": "01b693761e610ccaab0176a2fedfe6ca34e2a745672d9ff5da9e4f5dbc53ab0f",
       "source": "Bundled lab/c7-scene/world.js dependency graph"
     },
     "startup-inputs.js": {
