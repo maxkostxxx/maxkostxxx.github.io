@@ -6,7 +6,7 @@
     "sources": {
       "world.js": {
         "source": "lab/c7-scene/world.js",
-        "sha256": "ccafa2909013c24ebfdae957f96bac0b66a244cf83ee1fef7bdf6de97b18e862"
+        "sha256": "69d0bfe1ded086b257c932ee6d6e4d404c4ad889d64bf400d51b7c2715f01c5b"
       },
       "binary-transfer.js": {
         "source": "lab/c7-scene/binary-transfer.js",
@@ -62,7 +62,7 @@
       },
       "startup-data-key.js": {
         "source": "lab/c7-scene/startup-data-key.js",
-        "sha256": "2430c4078c5b7d772f9dcee289be87a9636eb957d4690fd5cf29d1d97b9d5bb6"
+        "sha256": "a732884c4d69e7276b376297ccfe5692b3b85616a1b5ddbc5e74de50c719bdc5"
       },
       "sky-horizon.js": {
         "source": "lab/c7-scene/sky-horizon.js",
@@ -106,7 +106,7 @@
       },
       "materials.js": {
         "source": "lab/c7-scene/materials.js",
-        "sha256": "f7152a0e28f759943d6028f488cd3872a55e98f73078079fbe4cbf71e70a56d9"
+        "sha256": "33d8c8a9ba27a8144869a5fca6648cd98b8accd4dbc797156cec39c4c90b425e"
       },
       "lake.js": {
         "source": "lab/c7-scene/lake.js",
@@ -154,7 +154,7 @@
       },
       "far-grass.js": {
         "source": "lab/c7-scene/far-grass.js",
-        "sha256": "ab5c211693f43ef7628f262916a21877975e9fb85eb33ebf86dd6c40ef77d645"
+        "sha256": "f661805dc5f1cbf79d51158d617f31cf4c05e6675241a1ac0ca2f48baa084ae5"
       },
       "canopy-occlusion.js": {
         "source": "lab/c7-scene/canopy-occlusion.js",
@@ -178,7 +178,7 @@
       }
     }
   },
-  "bytes": 15221654,
+  "bytes": 15221990,
   "files": {
     "terrain-cache/geometry.bin.zst": {
       "bytes": 841092,
@@ -246,8 +246,8 @@
       "source": "lab/c7-scene/terrain.js"
     },
     "world.js": {
-      "bytes": 900552,
-      "sha256": "01b693761e610ccaab0176a2fedfe6ca34e2a745672d9ff5da9e4f5dbc53ab0f",
+      "bytes": 900888,
+      "sha256": "3cdf3010533f6e19c6b5ecd4796fe7feee1d715e1136075cbb2d5a27d5d5061e",
       "source": "Bundled lab/c7-scene/world.js dependency graph"
     },
     "startup-inputs.js": {
@@ -262,7 +262,7 @@
     },
     "startup-data/manifest.json": {
       "bytes": 1567,
-      "sha256": "ca396a89a217b36fe558f6dc31c96cc4d65f7ec16b32d3a98cee4b0819ed131e",
+      "sha256": "267186e991103dae37667c42007bdc1cc09e80eeb65032becb6392547c1e74e6",
       "source": "lab/c7-scene/startup-data/manifest.json"
     },
     "startup-data/fields.bin.gz": {
