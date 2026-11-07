@@ -6,7 +6,7 @@
     "sources": {
       "world.js": {
         "source": "lab/c7-scene/world.js",
-        "sha256": "69d0bfe1ded086b257c932ee6d6e4d404c4ad889d64bf400d51b7c2715f01c5b"
+        "sha256": "90167581a0d9307161ae5d1e253e3bb2864b8eaebba1ab6413df3e7bf9198fa7"
       },
       "binary-transfer.js": {
         "source": "lab/c7-scene/binary-transfer.js",
@@ -178,7 +178,7 @@
       }
     }
   },
-  "bytes": 15221990,
+  "bytes": 15221883,
   "files": {
     "terrain-cache/geometry.bin.zst": {
       "bytes": 841092,
@@ -246,8 +246,8 @@
       "source": "lab/c7-scene/terrain.js"
     },
     "world.js": {
-      "bytes": 900888,
-      "sha256": "3cdf3010533f6e19c6b5ecd4796fe7feee1d715e1136075cbb2d5a27d5d5061e",
+      "bytes": 900781,
+      "sha256": "8fa8fdf1716c7866a8b19214a6213fc012d3502294e568308bfc02e18da23e05",
       "source": "Bundled lab/c7-scene/world.js dependency graph"
     },
     "startup-inputs.js": {
