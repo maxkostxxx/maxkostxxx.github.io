@@ -178,7 +178,7 @@
       }
     }
   },
-  "bytes": 15221883,
+  "bytes": 15221869,
   "files": {
     "terrain-cache/geometry.bin.zst": {
       "bytes": 841092,
@@ -246,8 +246,8 @@
       "source": "lab/c7-scene/terrain.js"
     },
     "world.js": {
-      "bytes": 900781,
-      "sha256": "8fa8fdf1716c7866a8b19214a6213fc012d3502294e568308bfc02e18da23e05",
+      "bytes": 900769,
+      "sha256": "3f7aacb59065464c8894b0fd34b6387dda9595f38e9b443daf9a9879cdb7e900",
       "source": "Bundled lab/c7-scene/world.js dependency graph"
     },
     "startup-inputs.js": {
@@ -256,8 +256,8 @@
       "source": "Bundled lab/c7-scene/startup-inputs.js dependency graph"
     },
     "worker-entry.js": {
-      "bytes": 4635,
-      "sha256": "69e70b50ee50c1dfadd79ebad568276499d5d7eb5fe2ae23ad4f4915196443d9",
+      "bytes": 4633,
+      "sha256": "b22cc8f26f46377e2a374ad081992ac4ee26b86b8b67d8fa48fb5bcba9955e49",
       "source": "lab/c7-scene/worker-entry.js"
     },
     "startup-data/manifest.json": {

@@ -1,7 +1,7 @@
 import {prepareStartupInputs} from './startup-inputs.js';
 // Dedicated rendering owner. The page keeps DOM, scroll and accessibility.
 // CPU receipt and GPU admission are separate. Keep the latest requested pose
-// and at most three submitted frames, so scrolling cannot build an old GPU queue.
+// and at most two submitted frames, so scrolling cannot build an old GPU queue.
 let inputs,world,controller,moduleTask,initialized=false,disposed=false,lost=false,debug=false,size,gl;
 let supported=false;
 let active=true,pending,pollTimer,fences=[];
@@ -32,7 +32,7 @@ function pump(){
  stopPolling();
  if(!active||!pending||!world||disposed||lost)return;
  observeCompleted();
- if(fences.length>=3){
+ if(fences.length>=2){
   // Never wait synchronously for the GPU. Poll only while a pose is waiting;
   // pause/cover/dispose stops this timer, and an idle scene does no polling.
   pollTimer=setTimeout(()=>{pollTimer=undefined;try{pump();}catch(error){fail(error);}},4);
